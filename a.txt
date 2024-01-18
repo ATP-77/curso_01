@@ -3,3 +3,5 @@ no Github
 para fazer download
 
 Criação de um nova linha de comandos arquivo
+
+Enviando a funcionalidade B
